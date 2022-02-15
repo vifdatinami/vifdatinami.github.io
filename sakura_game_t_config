@@ -27,10 +27,10 @@
   "admob": true,
   "adsadmb": {
     "admb_banner": "ca-app-pub-7144089957930196/5684788593",
-    "admb_inters": "ca-app-pub-7144089957930196/9455530109",
-    "admb_native": "ca-app-pub-7144089957930196/3654223294",
-    "admb_native2": "ca-app-pub-7144089957930196/3654223294",
-    "admb_openad": "ca-app-pub-7144089957930196/4967304964"
+    "admb_inters": "ca-app-pub-7144089957930196/3152885172",
+    "admb_native": "ca-app-pub-7144089957930196/9526721834",
+    "admb_native2": "ca-app-pub-7144089957930196/9526721834",
+    "admb_openad": "ca-app-pub-7144089957930196/1839803500"
   },
   
   "onBackOpenAds": true,

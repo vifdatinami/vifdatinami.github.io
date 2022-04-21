@@ -16,7 +16,7 @@
   "showOnlyOpen": false,
   "admbNbOrB": "nb",
   
-  "admob": true,
+  "admob": false,
   "adsadmb": {
     "admb_banner": "ca-app-pub-3940256099942544/6300978111",
     
@@ -33,7 +33,7 @@
   
   "onBackOpenAds": true,
   
-  "unity": false, 
+  "unity": true, 
   "adsunity": {
     "unity_ids": "3478504",
     "unity_id": "3667089",

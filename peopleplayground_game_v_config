@@ -16,24 +16,24 @@
   "showOnlyOpen": false,
   "admbNbOrB": "nb",
   
-  "admob": false,
+  "admob": true,
   "adsadmb": {
     "admb_banner": "ca-app-pub-3940256099942544/6300978111",
     
-    "admb_inters1": "ca-app-pub-7144089957930196/1065645405",
-    "admb_inters2": "ca-app-pub-7144089957930196/1065645405",
-    "admb_inters3": "ca-app-pub-7144089957930196/1065645405",
+    "admb_inters1": "ca-app-pub-2555400651572549/7214462227",
+    "admb_inters2": "ca-app-pub-2555400651572549/7214462227",
+    "admb_inters3": "ca-app-pub-2555400651572549/7214462227",
     
-    "admb_native1": "ca-app-pub-7144089957930196/3500237056",
-    "admb_native2": "ca-app-pub-7144089957930196/3500237056",
-    "admb_native3": "ca-app-pub-7144089957930196/3500237056",
+    "admb_native1": "ca-app-pub-2555400651572549/4724014346",
+    "admb_native2": "ca-app-pub-2555400651572549/4724014346",
+    "admb_native3": "ca-app-pub-2555400651572549/4724014346",
     
-    "admb_openad": "ca-app-pub-7144089957930196/7439482061"
+    "admb_openad": "ca-app-pub-2555400651572549/8471687662"
   },
   
   "onBackOpenAds": true,
   
-  "unity": true, 
+  "unity": false, 
   "adsunity": {
     "unity_ids": "3478504",
     "unity_id": "3667089",
